@@ -17,5 +17,6 @@ Built to understand what actually happens underneath the networking stack.
 - Client-server communication
 - Multi-client handling
 - Manual register & memory management
+- Built in progression where webserver11.s is the final
 
 Built from scratch. No AI.
